@@ -1,0 +1,26 @@
+# MPLAB X generated files
+dist/
+build/
+nbproject/private/
+
+# Compiled firmware
+*.hex
+*.elf
+*.cof
+*.map
+*.o
+*.p1
+
+# Debug output
+*.d
+*.pre
+*.sdb
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
